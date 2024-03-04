@@ -1,13 +1,10 @@
 .odd-num{
     background-color: #FFA7A7;
-    font-family: "Verdana ";
-    font-family: "DejaVu Sans";
-    font-family: sans-serif;
-   
+    font-family: "Verdana ", "DejaVu Sans", sans-serif;
 }
 
 #text{
-    color:#0000ff;
+    color:rgb(0, 0, 255);
     font-size: 36px;
 }
 
@@ -16,7 +13,7 @@
 }
 
 #fourthElement{
-    background-color:#80FF80 ;
+    background-color:hsl(120, 100%, 75%) ;
     font-weight: bold;
 }
 
